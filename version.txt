@@ -1,1 +1,1 @@
-1.1|https://github.com/digitalautomationgrowth/uni-unit2-app-updates/releases/download/v1.1/UD_UNIT-II_EXPORT.exe
+1.2|https://github.com/digitalautomationgrowth/uni-unit2-app-updates/releases/download/v1.2/UD_UNIT-II_EXPORT.exe
