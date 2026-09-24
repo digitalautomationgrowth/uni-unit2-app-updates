@@ -5,13 +5,18 @@
     "expiry": "2026-09-20"
   },
   "E0391996731555E5": {
-    "active": true,
+    "active": false,
     "customer": "UNIDESIGN",
     "expiry": "2026-08-31"
+  },
+  "E8C0E8545393EE86": {
+    "active": true,
+    "customer": "TESTING",
+    "expiry": "2026-09-11"
   },
   "FC76334B84F59A8D": {
     "active": true,
     "customer": "MY TESTING",
-    "expiry": "2026-08-14"
+    "note": "no local record \u2014 date removed"
   }
 }
